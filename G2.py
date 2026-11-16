@@ -24,9 +24,9 @@ xtips = b.XEndPoints;
 ytips = b.YEndPoints;
 labels = string(data);
 
-text(xtips, ytips, labels, ...
-    'HorizontalAlignment', 'center', ...
-    'VerticalAlignment', 'bottom', ...
+text(xtips, ytips, labels, ...,
+    'HorizontalAlignment', 'center', ...,
+    'VerticalAlignment', 'bottom', ...,
     'FontSize', 11);
 
 # Labels and title
