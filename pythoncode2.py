@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+
 import plotly
 # Education categories
 education = [
