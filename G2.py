@@ -13,7 +13,7 @@ education = {
     };
 
 # Population percentages
-data = [7.5; 18.4; 37.6; 20.6; 5.6; 6.8; 3.5];
+data = [7.5, 18.4, 37.6, 20.6, 5.6, 6.8, 3.5];
 
 # Create bar chart
 figure;
