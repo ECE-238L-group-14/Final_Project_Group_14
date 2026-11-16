@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import streamlit as st
+import pandas as pd
 # Education categories
 education = [
     'Less than 9th grade',
