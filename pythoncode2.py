@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-python -m pip install matplotlib
+import plotly
 # Education categories
 education = [
     'Less than 9th grade',
